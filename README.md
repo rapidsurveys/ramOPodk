@@ -1,5 +1,7 @@
 # ramOPodk: Rapid Assessment for Older People XLSform and Xform survey instruments
 
+[![DOI](https://zenodo.org/badge/138555975.svg)](https://zenodo.org/badge/latestdoi/138555975)
+
 The Rapid Assessment Method for Older People (RAM-OP) is a rapid assessment method for measuring the nutritional status and needs, and other related factors that affect older people in humanitarian situations. It includes a questionnaire, a sampling method, and software for data analysis. It needs to be finalised and tested to produce guidelines. It will allow humanitarian workers to gather evidence on the nutritional vulnerability of older people in emergencies and plan the response accordingly.
 
 Developed by [HelpAge International](www.helpage.org) in collaboration with [Valid International](http://www.validinternational.org) and [Brixton Health](http://www.brixtonhealth.com), and with funding from [Humanitarian Innovation Fund](http://www.elrha.org/hif/home/), the method is quick because it requires a sample size of just 192 and the process can be achieved in just two weeks, including training and data collection, entry and analysis.
